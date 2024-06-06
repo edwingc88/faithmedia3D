@@ -1,10 +1,9 @@
 import { Canvas } from '@react-three/fiber' 
-/* import { useRef } from 'react'
-import { Environment, OrbitControls, ScrollControls } from '@react-three/drei' */
+
 import { HomeScene } from '@/scenes'
 
 export const App= ()=> {
-/*   const dom = useRef<HTMLElement>(null) */
+
   return (
     <>
        <main className="app">
